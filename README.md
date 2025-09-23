@@ -1,6 +1,6 @@
 # Prêtor Gold Loan: A Business Case Analysis
 
-> A business case and financial model developed for "The Creation Hackathon", proposing a resilient non-banking financial company in the tumultuous economy of post-World War I France.
+> A business case and financial model developed for E Cell, IIT Guwahati, proposing a resilient non-banking financial company in the tumultuous economy of post-World War I France.
 
 **Tags:** `Business Analysis`, `Financial Modeling`, `Market Research`, `Business Strategy`, `Case Study`
 
@@ -40,4 +40,4 @@ After one year, the amount owed would be **$16.76**. During this time, the value
 
 For a visual summary and the complete slide deck, please view the PDF here:
 
-**[Click here to view the full presentation PDF](Pretor.pdf)**
+**[Click here to view the full presentation PDF](pretorGoldDeck.pdf)**
